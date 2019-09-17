@@ -133,7 +133,6 @@ aside:hover{
 
 .white a{
     text-decoration:none;
-    font-weight: bold;
 }
 
 .white a:hover{
@@ -162,6 +161,7 @@ h3{
 
 h2 a{
     color:#1e8bc2;
+    font-weight: bold;
 }
 
 .partenaires{
