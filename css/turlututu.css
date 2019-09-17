@@ -133,7 +133,6 @@ aside:hover{
 
 .white a{
     text-decoration:none;
-    color:#1e8bc2;
     font-weight: bold;
 }
 
@@ -159,6 +158,10 @@ h3{
 
 #flex4 p{
     font-size:0.9em;
+}
+
+h2 a{
+    color:#1e8bc2;
 }
 
 .partenaires{
