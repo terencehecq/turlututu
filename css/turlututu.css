@@ -82,20 +82,20 @@ h1{
     border-radius:10px;
 }
 
-.white .button.button-orange{
+.button.button-orange{
     background-color:  rgb(221, 143, 26);
 }
 
-.white .button.button-blue{
+.button.button-blue{
     background-color: rgb(20, 76, 122);
 }
 
-.white .button-orange:hover{
+.button-orange:hover{
     background-color: rgb(243, 173, 22);
     color:white;
 }
 
-.white .button-blue:hover{
+.button-blue:hover{
     background-color: rgb(26, 98, 156);
 }
 
