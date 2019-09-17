@@ -82,21 +82,21 @@ h1{
     border-radius:10px;
 }
 
-.button.button-orange{
+.white .button.button-orange{
     background-color:  rgb(221, 143, 26);
 }
 
-.button.button-blue{
+.white .button.button-blue{
     background-color: rgb(20, 76, 122);
 }
 
-.button-orange:hover{
+.white .button-orange:hover{
     background-color: rgb(243, 173, 22);
+    color:white;
 }
 
-.button-blue:hover{
-    color:rgb(221, 143, 26);
-    background-color: rgb(28, 98, 156)
+.white .button-blue:hover{
+    background-color: rgb(26, 98, 156);
 }
 
 aside{
@@ -135,10 +135,6 @@ aside:hover{
     text-decoration:none;
 }
 
-.white a:hover{
-    color: rgb(221, 143, 26);
-}
-
 #flex4{
     display:flex;
     padding:40px 0;
@@ -162,6 +158,10 @@ h3{
 h2 a{
     color:#1e8bc2;
     font-weight: bold;
+}
+
+h2 a:hover{
+    color:rgb(221, 143, 26);
 }
 
 .partenaires{
